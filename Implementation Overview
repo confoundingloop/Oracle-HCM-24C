@@ -1,4 +1,6 @@
-<Brief Overview of Enterprise Structure - Oracle Fusion HCM>
+Enterprise Setup Configuration 1
+
+<Brief Overview of Enterprise Structure - Oracle Fusion HCM> 1.1
 
 Introduction to Enterprise Structure:
 
@@ -32,12 +34,26 @@ Summary and Future Steps:
 The understanding of enterprise structure setup is fundamental before diving into Oracle’s comprehensive documentation. Practical, hands-on configuration will be covered in subsequent training sections, moving from theoretical understanding to practical application.
 This summary encapsulates the key elements and steps for setting up an enterprise structure in Oracle Fusion HCM, as outlined in the provided transcript.
 
+<Difference Between Oracle EBS Multi-Org and Fusion Enterprise Structure> 1.2
+Structural Comparison:
+
+Legacy vs. Modern Systems: Transitioning from Oracle EBS's Multi-Org structure to Oracle Fusion's Enterprise Structure reflects modern needs for integrated business management.
+Key Distinctions: Oracle Fusion introduces additional layers like the enterprise and divisions not present in Oracle EBS, catering to more detailed organizational needs.
+Practical Differences:
+
+Legacy EBS Structure: Historically, Oracle EBS organized structures starting with business groups, progressing through ledgers and legal entities to operating units.
+Modern Fusion Structure: In contrast, Fusion starts at the enterprise level, adding divisions, and refines down to legal entities and business units, with an emphasis on flexibility and comprehensive data management through reference data sets.
 
 
 
+<Configure ESC - Oracle Fusion HCM> 1.3
+Using the Enterprise Structure Configurator (ESC):
 
-
-
+Tool Functionality: The ESC streamlines the configuration of enterprise structures, guiding users through the necessary steps to establish a cohesive organizational framework.
+Configuration Steps:
+Establishment: Start by naming and detailing the enterprise, such as setting up "Xerox Corporation" with specifics about its core business activities and headquarters.
+Legal Setup: Enter legal details required for compliance and operational legitimacy.
+Expansion: Navigate through the ESC's interview process to include additional legal entities based on the business's geographic or operational expansions.
 
 
 
