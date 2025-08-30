@@ -44,8 +44,6 @@ Practical Differences:
 Legacy EBS Structure: Historically, Oracle EBS organized structures starting with business groups, progressing through ledgers and legal entities to operating units.
 Modern Fusion Structure: In contrast, Fusion starts at the enterprise level, adding divisions, and refines down to legal entities and business units, with an emphasis on flexibility and comprehensive data management through reference data sets.
 
-
-
 <Configure ESC - Oracle Fusion HCM> 1.3
 Using the Enterprise Structure Configurator (ESC):
 
